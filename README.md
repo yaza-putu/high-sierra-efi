@@ -11,4 +11,3 @@ Spesifikasi Komputer HP 6200 core i3 2100
 * Bootloader clover version 4xxx legacy mode
 
 Untuk Kext yg digunakan bisa di lihat di folder EFI/CLOVER/kexts/other
-set layout id audio = 15
