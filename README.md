@@ -9,5 +9,6 @@ Spesifikasi Komputer HP 6200 core i3 2100
 * Chipset 6 Intel Family
 * Motherboard LGA 775
 * Bootloader clover version 4xxx legacy mode
+* SM Bios type imac 13
 
 Untuk Kext yg digunakan bisa di lihat di folder EFI/CLOVER/kexts/other
